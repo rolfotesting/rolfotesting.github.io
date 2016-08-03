@@ -1,4 +1,9 @@
+@font-face {
+	font-family: "Comic Sans S";
+	src: url(comicsans.ttf);
+}
+
 div {
 font-size: 36px;  
-font-family: "Comic Sans MS";
+font-family: "Comic Sans S";
 }

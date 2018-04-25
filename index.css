@@ -3,9 +3,15 @@
 	src: url(comicsans.ttf);
 }
 
+body {
+    background-image: url("stars.gif");
+    background-repeat: repeat-xy;
+}
+
 div {
 font-size: 36px;  
 font-family: "Comic Sans S";
+color: white;
 }
 
 img {
